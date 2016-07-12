@@ -9,5 +9,6 @@ this project include two dirctory:code and data
 
 core is the source code: kmeans.py nnet.py pca.py and so on 
 
+DL dir using Tensorflow 
 
 
